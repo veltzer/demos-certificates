@@ -1,0 +1,2 @@
+setup tomact with certificates for authentication:
+	https://docs.oracle.com/middleware/1213/edq/DQSEC/ssl_tomcat.htm#DQSEC171
